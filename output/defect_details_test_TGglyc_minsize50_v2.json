@@ -1,0 +1,7999 @@
+[
+    {
+        "0": {
+            "lifetime": 5,
+            "size": 77,
+            "frames": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "type": "TGglyc"
+        },
+        "1": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                14
+            ],
+            "type": "TGglyc"
+        },
+        "2": {
+            "lifetime": 1,
+            "size": 91,
+            "frames": [
+                16
+            ],
+            "type": "TGglyc"
+        },
+        "3": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                20
+            ],
+            "type": "TGglyc"
+        },
+        "4": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                28
+            ],
+            "type": "TGglyc"
+        },
+        "5": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                32
+            ],
+            "type": "TGglyc"
+        },
+        "6": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                37
+            ],
+            "type": "TGglyc"
+        },
+        "7": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                46
+            ],
+            "type": "TGglyc"
+        },
+        "8": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                58
+            ],
+            "type": "TGglyc"
+        },
+        "9": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                64
+            ],
+            "type": "TGglyc"
+        },
+        "10": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                74
+            ],
+            "type": "TGglyc"
+        },
+        "11": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                86
+            ],
+            "type": "TGglyc"
+        },
+        "12": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                97,
+                98
+            ],
+            "type": "TGglyc"
+        },
+        "13": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                99
+            ],
+            "type": "TGglyc"
+        },
+        "14": {
+            "lifetime": 4,
+            "size": 59,
+            "frames": [
+                141,
+                142,
+                143,
+                144
+            ],
+            "type": "TGglyc"
+        },
+        "15": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                150,
+                151,
+                152
+            ],
+            "type": "TGglyc"
+        },
+        "16": {
+            "lifetime": 1,
+            "size": 64,
+            "frames": [
+                162
+            ],
+            "type": "TGglyc"
+        },
+        "17": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                164
+            ],
+            "type": "TGglyc"
+        },
+        "18": {
+            "lifetime": 3,
+            "size": 57,
+            "frames": [
+                167,
+                168,
+                169
+            ],
+            "type": "TGglyc"
+        },
+        "19": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                171
+            ],
+            "type": "TGglyc"
+        },
+        "20": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                173,
+                174,
+                175
+            ],
+            "type": "TGglyc"
+        },
+        "21": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                180,
+                181
+            ],
+            "type": "TGglyc"
+        },
+        "22": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                181
+            ],
+            "type": "TGglyc"
+        },
+        "23": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                184
+            ],
+            "type": "TGglyc"
+        },
+        "24": {
+            "lifetime": 1,
+            "size": 64,
+            "frames": [
+                185
+            ],
+            "type": "TGglyc"
+        },
+        "25": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                187
+            ],
+            "type": "TGglyc"
+        },
+        "26": {
+            "lifetime": 2,
+            "size": 73,
+            "frames": [
+                187,
+                188
+            ],
+            "type": "TGglyc"
+        },
+        "27": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                191
+            ],
+            "type": "TGglyc"
+        },
+        "28": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                192
+            ],
+            "type": "TGglyc"
+        },
+        "29": {
+            "lifetime": 3,
+            "size": 62,
+            "frames": [
+                192,
+                193,
+                194
+            ],
+            "type": "TGglyc"
+        },
+        "30": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                196,
+                197
+            ],
+            "type": "TGglyc"
+        },
+        "31": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                198
+            ],
+            "type": "TGglyc"
+        },
+        "32": {
+            "lifetime": 6,
+            "size": 57,
+            "frames": [
+                202,
+                203,
+                204,
+                205,
+                206,
+                207
+            ],
+            "type": "TGglyc"
+        },
+        "33": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                202
+            ],
+            "type": "TGglyc"
+        },
+        "34": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                206,
+                207
+            ],
+            "type": "TGglyc"
+        },
+        "35": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                208
+            ],
+            "type": "TGglyc"
+        },
+        "36": {
+            "lifetime": 5,
+            "size": 61,
+            "frames": [
+                209,
+                210,
+                211,
+                212,
+                213
+            ],
+            "type": "TGglyc"
+        },
+        "37": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                211
+            ],
+            "type": "TGglyc"
+        },
+        "38": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                213,
+                214
+            ],
+            "type": "TGglyc"
+        },
+        "39": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                215
+            ],
+            "type": "TGglyc"
+        },
+        "40": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                218
+            ],
+            "type": "TGglyc"
+        },
+        "41": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                224
+            ],
+            "type": "TGglyc"
+        },
+        "42": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                228
+            ],
+            "type": "TGglyc"
+        },
+        "43": {
+            "lifetime": 1,
+            "size": 94,
+            "frames": [
+                229
+            ],
+            "type": "TGglyc"
+        },
+        "44": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                233
+            ],
+            "type": "TGglyc"
+        },
+        "45": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                235
+            ],
+            "type": "TGglyc"
+        },
+        "46": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                235,
+                236
+            ],
+            "type": "TGglyc"
+        },
+        "47": {
+            "lifetime": 1,
+            "size": 78,
+            "frames": [
+                243
+            ],
+            "type": "TGglyc"
+        },
+        "48": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                256
+            ],
+            "type": "TGglyc"
+        },
+        "49": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                261,
+                262
+            ],
+            "type": "TGglyc"
+        },
+        "50": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                274
+            ],
+            "type": "TGglyc"
+        },
+        "51": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                279
+            ],
+            "type": "TGglyc"
+        },
+        "52": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                301
+            ],
+            "type": "TGglyc"
+        },
+        "53": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                303
+            ],
+            "type": "TGglyc"
+        },
+        "54": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                313
+            ],
+            "type": "TGglyc"
+        },
+        "55": {
+            "lifetime": 3,
+            "size": 98,
+            "frames": [
+                313,
+                314,
+                315
+            ],
+            "type": "TGglyc"
+        },
+        "56": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                317,
+                318
+            ],
+            "type": "TGglyc"
+        },
+        "57": {
+            "lifetime": 6,
+            "size": 61,
+            "frames": [
+                322,
+                323,
+                324,
+                325,
+                326,
+                327
+            ],
+            "type": "TGglyc"
+        },
+        "58": {
+            "lifetime": 3,
+            "size": 65,
+            "frames": [
+                328,
+                329,
+                330
+            ],
+            "type": "TGglyc"
+        },
+        "59": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                334
+            ],
+            "type": "TGglyc"
+        },
+        "60": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                336
+            ],
+            "type": "TGglyc"
+        },
+        "61": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                340
+            ],
+            "type": "TGglyc"
+        },
+        "62": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                359
+            ],
+            "type": "TGglyc"
+        },
+        "63": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                369
+            ],
+            "type": "TGglyc"
+        },
+        "64": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                382
+            ],
+            "type": "TGglyc"
+        },
+        "65": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                383
+            ],
+            "type": "TGglyc"
+        },
+        "66": {
+            "lifetime": 1,
+            "size": 81,
+            "frames": [
+                384
+            ],
+            "type": "TGglyc"
+        },
+        "67": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                389
+            ],
+            "type": "TGglyc"
+        },
+        "68": {
+            "lifetime": 3,
+            "size": 57,
+            "frames": [
+                399,
+                400,
+                401
+            ],
+            "type": "TGglyc"
+        },
+        "69": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                402
+            ],
+            "type": "TGglyc"
+        },
+        "70": {
+            "lifetime": 2,
+            "size": 70,
+            "frames": [
+                404,
+                405
+            ],
+            "type": "TGglyc"
+        },
+        "71": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                406
+            ],
+            "type": "TGglyc"
+        },
+        "72": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                414
+            ],
+            "type": "TGglyc"
+        },
+        "73": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                416
+            ],
+            "type": "TGglyc"
+        },
+        "74": {
+            "lifetime": 1,
+            "size": 88,
+            "frames": [
+                417
+            ],
+            "type": "TGglyc"
+        },
+        "75": {
+            "lifetime": 6,
+            "size": 89,
+            "frames": [
+                439,
+                440,
+                441,
+                442,
+                443,
+                444
+            ],
+            "type": "TGglyc"
+        },
+        "76": {
+            "lifetime": 3,
+            "size": 54,
+            "frames": [
+                445,
+                446,
+                447
+            ],
+            "type": "TGglyc"
+        },
+        "77": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                449,
+                450
+            ],
+            "type": "TGglyc"
+        },
+        "78": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                449,
+                450,
+                451
+            ],
+            "type": "TGglyc"
+        },
+        "79": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                452
+            ],
+            "type": "TGglyc"
+        },
+        "80": {
+            "lifetime": 2,
+            "size": 63,
+            "frames": [
+                454,
+                455
+            ],
+            "type": "TGglyc"
+        },
+        "81": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                457,
+                458
+            ],
+            "type": "TGglyc"
+        },
+        "82": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                461
+            ],
+            "type": "TGglyc"
+        },
+        "83": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                462
+            ],
+            "type": "TGglyc"
+        },
+        "84": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                462
+            ],
+            "type": "TGglyc"
+        },
+        "85": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                466
+            ],
+            "type": "TGglyc"
+        },
+        "86": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                468
+            ],
+            "type": "TGglyc"
+        },
+        "87": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                472
+            ],
+            "type": "TGglyc"
+        },
+        "88": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                473
+            ],
+            "type": "TGglyc"
+        },
+        "89": {
+            "lifetime": 4,
+            "size": 53,
+            "frames": [
+                474,
+                475,
+                476,
+                477
+            ],
+            "type": "TGglyc"
+        },
+        "90": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                474,
+                475
+            ],
+            "type": "TGglyc"
+        },
+        "91": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                478
+            ],
+            "type": "TGglyc"
+        },
+        "92": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                478
+            ],
+            "type": "TGglyc"
+        },
+        "93": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                479
+            ],
+            "type": "TGglyc"
+        },
+        "94": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                479
+            ],
+            "type": "TGglyc"
+        },
+        "95": {
+            "lifetime": 2,
+            "size": 59,
+            "frames": [
+                480,
+                481
+            ],
+            "type": "TGglyc"
+        },
+        "96": {
+            "lifetime": 2,
+            "size": 61,
+            "frames": [
+                480,
+                481
+            ],
+            "type": "TGglyc"
+        },
+        "97": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                482
+            ],
+            "type": "TGglyc"
+        },
+        "98": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                483,
+                484
+            ],
+            "type": "TGglyc"
+        },
+        "99": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                484,
+                485
+            ],
+            "type": "TGglyc"
+        },
+        "100": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                486
+            ],
+            "type": "TGglyc"
+        },
+        "101": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                488
+            ],
+            "type": "TGglyc"
+        },
+        "102": {
+            "lifetime": 14,
+            "size": 61,
+            "frames": [
+                491,
+                492,
+                493,
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504
+            ],
+            "type": "TGglyc"
+        },
+        "103": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                497,
+                498
+            ],
+            "type": "TGglyc"
+        },
+        "104": {
+            "lifetime": 3,
+            "size": 54,
+            "frames": [
+                501,
+                502,
+                503
+            ],
+            "type": "TGglyc"
+        },
+        "105": {
+            "lifetime": 5,
+            "size": 71,
+            "frames": [
+                506,
+                507,
+                508,
+                509,
+                510
+            ],
+            "type": "TGglyc"
+        },
+        "106": {
+            "lifetime": 6,
+            "size": 71,
+            "frames": [
+                512,
+                513,
+                514,
+                515,
+                516,
+                517
+            ],
+            "type": "TGglyc"
+        },
+        "107": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                518
+            ],
+            "type": "TGglyc"
+        },
+        "108": {
+            "lifetime": 2,
+            "size": 59,
+            "frames": [
+                519,
+                520
+            ],
+            "type": "TGglyc"
+        },
+        "109": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                525
+            ],
+            "type": "TGglyc"
+        },
+        "110": {
+            "lifetime": 1,
+            "size": 75,
+            "frames": [
+                529
+            ],
+            "type": "TGglyc"
+        },
+        "111": {
+            "lifetime": 2,
+            "size": 86,
+            "frames": [
+                531,
+                532
+            ],
+            "type": "TGglyc"
+        },
+        "112": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                534
+            ],
+            "type": "TGglyc"
+        },
+        "113": {
+            "lifetime": 5,
+            "size": 58,
+            "frames": [
+                545,
+                546,
+                547,
+                548,
+                549
+            ],
+            "type": "TGglyc"
+        },
+        "114": {
+            "lifetime": 4,
+            "size": 56,
+            "frames": [
+                554,
+                555,
+                556,
+                557
+            ],
+            "type": "TGglyc"
+        },
+        "115": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                561
+            ],
+            "type": "TGglyc"
+        },
+        "116": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                561
+            ],
+            "type": "TGglyc"
+        },
+        "117": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                562
+            ],
+            "type": "TGglyc"
+        },
+        "118": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                562
+            ],
+            "type": "TGglyc"
+        },
+        "119": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                563
+            ],
+            "type": "TGglyc"
+        },
+        "120": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                563
+            ],
+            "type": "TGglyc"
+        },
+        "121": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                578
+            ],
+            "type": "TGglyc"
+        },
+        "122": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                585
+            ],
+            "type": "TGglyc"
+        },
+        "123": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                649,
+                650
+            ],
+            "type": "TGglyc"
+        },
+        "124": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                687
+            ],
+            "type": "TGglyc"
+        },
+        "125": {
+            "lifetime": 2,
+            "size": 65,
+            "frames": [
+                704,
+                705
+            ],
+            "type": "TGglyc"
+        },
+        "126": {
+            "lifetime": 4,
+            "size": 56,
+            "frames": [
+                708,
+                709,
+                710,
+                711
+            ],
+            "type": "TGglyc"
+        },
+        "127": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                710,
+                711
+            ],
+            "type": "TGglyc"
+        },
+        "128": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                712
+            ],
+            "type": "TGglyc"
+        },
+        "129": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                714
+            ],
+            "type": "TGglyc"
+        },
+        "130": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                717
+            ],
+            "type": "TGglyc"
+        },
+        "131": {
+            "lifetime": 1,
+            "size": 70,
+            "frames": [
+                718
+            ],
+            "type": "TGglyc"
+        },
+        "132": {
+            "lifetime": 3,
+            "size": 75,
+            "frames": [
+                719,
+                720,
+                721
+            ],
+            "type": "TGglyc"
+        },
+        "133": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                728
+            ],
+            "type": "TGglyc"
+        },
+        "134": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                730
+            ],
+            "type": "TGglyc"
+        },
+        "135": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                732
+            ],
+            "type": "TGglyc"
+        },
+        "136": {
+            "lifetime": 1,
+            "size": 73,
+            "frames": [
+                736
+            ],
+            "type": "TGglyc"
+        },
+        "137": {
+            "lifetime": 5,
+            "size": 59,
+            "frames": [
+                741,
+                742,
+                743,
+                744,
+                745
+            ],
+            "type": "TGglyc"
+        },
+        "138": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                744
+            ],
+            "type": "TGglyc"
+        },
+        "139": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                746,
+                747
+            ],
+            "type": "TGglyc"
+        },
+        "140": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                747
+            ],
+            "type": "TGglyc"
+        },
+        "141": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                747
+            ],
+            "type": "TGglyc"
+        },
+        "142": {
+            "lifetime": 5,
+            "size": 78,
+            "frames": [
+                749,
+                750,
+                751,
+                752,
+                753
+            ],
+            "type": "TGglyc"
+        },
+        "143": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                751,
+                752
+            ],
+            "type": "TGglyc"
+        },
+        "144": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                757,
+                758
+            ],
+            "type": "TGglyc"
+        },
+        "145": {
+            "lifetime": 2,
+            "size": 80,
+            "frames": [
+                759,
+                760
+            ],
+            "type": "TGglyc"
+        },
+        "146": {
+            "lifetime": 1,
+            "size": 64,
+            "frames": [
+                762
+            ],
+            "type": "TGglyc"
+        },
+        "147": {
+            "lifetime": 14,
+            "size": 54,
+            "frames": [
+                767,
+                768,
+                769,
+                770,
+                771,
+                772,
+                773,
+                774,
+                775,
+                776,
+                777,
+                778,
+                779,
+                780
+            ],
+            "type": "TGglyc"
+        },
+        "148": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                774
+            ],
+            "type": "TGglyc"
+        },
+        "149": {
+            "lifetime": 7,
+            "size": 61,
+            "frames": [
+                775,
+                776,
+                777,
+                778,
+                779,
+                780,
+                781
+            ],
+            "type": "TGglyc"
+        },
+        "150": {
+            "lifetime": 4,
+            "size": 55,
+            "frames": [
+                785,
+                786,
+                787,
+                788
+            ],
+            "type": "TGglyc"
+        },
+        "151": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                786
+            ],
+            "type": "TGglyc"
+        },
+        "152": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                788,
+                789
+            ],
+            "type": "TGglyc"
+        },
+        "153": {
+            "lifetime": 1,
+            "size": 76,
+            "frames": [
+                791
+            ],
+            "type": "TGglyc"
+        },
+        "154": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                799,
+                800
+            ],
+            "type": "TGglyc"
+        },
+        "155": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                799
+            ],
+            "type": "TGglyc"
+        },
+        "156": {
+            "lifetime": 5,
+            "size": 59,
+            "frames": [
+                809,
+                810,
+                811,
+                812,
+                813
+            ],
+            "type": "TGglyc"
+        },
+        "157": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                825
+            ],
+            "type": "TGglyc"
+        },
+        "158": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                828
+            ],
+            "type": "TGglyc"
+        },
+        "159": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                831
+            ],
+            "type": "TGglyc"
+        },
+        "160": {
+            "lifetime": 3,
+            "size": 74,
+            "frames": [
+                833,
+                834,
+                835
+            ],
+            "type": "TGglyc"
+        },
+        "161": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                839
+            ],
+            "type": "TGglyc"
+        },
+        "162": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                840
+            ],
+            "type": "TGglyc"
+        },
+        "163": {
+            "lifetime": 3,
+            "size": 53,
+            "frames": [
+                842,
+                843,
+                844
+            ],
+            "type": "TGglyc"
+        },
+        "164": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                842
+            ],
+            "type": "TGglyc"
+        },
+        "165": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                845
+            ],
+            "type": "TGglyc"
+        },
+        "166": {
+            "lifetime": 2,
+            "size": 68,
+            "frames": [
+                846,
+                847
+            ],
+            "type": "TGglyc"
+        },
+        "167": {
+            "lifetime": 2,
+            "size": 70,
+            "frames": [
+                848,
+                849
+            ],
+            "type": "TGglyc"
+        },
+        "168": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                849
+            ],
+            "type": "TGglyc"
+        },
+        "169": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                850,
+                851
+            ],
+            "type": "TGglyc"
+        },
+        "170": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                850
+            ],
+            "type": "TGglyc"
+        },
+        "171": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                855
+            ],
+            "type": "TGglyc"
+        },
+        "172": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                858
+            ],
+            "type": "TGglyc"
+        },
+        "173": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                859,
+                860
+            ],
+            "type": "TGglyc"
+        },
+        "174": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                863
+            ],
+            "type": "TGglyc"
+        },
+        "175": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                863
+            ],
+            "type": "TGglyc"
+        },
+        "176": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                865
+            ],
+            "type": "TGglyc"
+        },
+        "177": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                866
+            ],
+            "type": "TGglyc"
+        },
+        "178": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                868
+            ],
+            "type": "TGglyc"
+        },
+        "179": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                872
+            ],
+            "type": "TGglyc"
+        },
+        "180": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                873
+            ],
+            "type": "TGglyc"
+        },
+        "181": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                888
+            ],
+            "type": "TGglyc"
+        },
+        "182": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                889
+            ],
+            "type": "TGglyc"
+        },
+        "183": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                890,
+                891
+            ],
+            "type": "TGglyc"
+        },
+        "184": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                893
+            ],
+            "type": "TGglyc"
+        },
+        "185": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                894
+            ],
+            "type": "TGglyc"
+        },
+        "186": {
+            "lifetime": 6,
+            "size": 52,
+            "frames": [
+                896,
+                897,
+                898,
+                899,
+                900,
+                901
+            ],
+            "type": "TGglyc"
+        },
+        "187": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                897
+            ],
+            "type": "TGglyc"
+        },
+        "188": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                900,
+                901
+            ],
+            "type": "TGglyc"
+        },
+        "189": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                906,
+                907,
+                908
+            ],
+            "type": "TGglyc"
+        },
+        "190": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                911
+            ],
+            "type": "TGglyc"
+        },
+        "191": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                912
+            ],
+            "type": "TGglyc"
+        },
+        "192": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                914
+            ],
+            "type": "TGglyc"
+        },
+        "193": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                921
+            ],
+            "type": "TGglyc"
+        },
+        "194": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                924
+            ],
+            "type": "TGglyc"
+        },
+        "195": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                925
+            ],
+            "type": "TGglyc"
+        },
+        "196": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                926,
+                927,
+                928
+            ],
+            "type": "TGglyc"
+        },
+        "197": {
+            "lifetime": 3,
+            "size": 59,
+            "frames": [
+                929,
+                930,
+                931
+            ],
+            "type": "TGglyc"
+        },
+        "198": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                930
+            ],
+            "type": "TGglyc"
+        },
+        "199": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                932
+            ],
+            "type": "TGglyc"
+        },
+        "200": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                933
+            ],
+            "type": "TGglyc"
+        },
+        "201": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                933
+            ],
+            "type": "TGglyc"
+        },
+        "202": {
+            "lifetime": 6,
+            "size": 69,
+            "frames": [
+                934,
+                935,
+                936,
+                937,
+                938,
+                939
+            ],
+            "type": "TGglyc"
+        },
+        "203": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                939
+            ],
+            "type": "TGglyc"
+        },
+        "204": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                953
+            ],
+            "type": "TGglyc"
+        },
+        "205": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                955
+            ],
+            "type": "TGglyc"
+        },
+        "206": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                970
+            ],
+            "type": "TGglyc"
+        },
+        "207": {
+            "lifetime": 4,
+            "size": 63,
+            "frames": [
+                977,
+                978,
+                979,
+                980
+            ],
+            "type": "TGglyc"
+        },
+        "208": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                978
+            ],
+            "type": "TGglyc"
+        },
+        "209": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                980
+            ],
+            "type": "TGglyc"
+        },
+        "210": {
+            "lifetime": 3,
+            "size": 66,
+            "frames": [
+                981,
+                982,
+                983
+            ],
+            "type": "TGglyc"
+        },
+        "211": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                983
+            ],
+            "type": "TGglyc"
+        },
+        "212": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                985,
+                986,
+                987
+            ],
+            "type": "TGglyc"
+        },
+        "213": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                986
+            ],
+            "type": "TGglyc"
+        },
+        "214": {
+            "lifetime": 1,
+            "size": 67,
+            "frames": [
+                989
+            ],
+            "type": "TGglyc"
+        },
+        "215": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                990
+            ],
+            "type": "TGglyc"
+        },
+        "216": {
+            "lifetime": 2,
+            "size": 66,
+            "frames": [
+                991,
+                992
+            ],
+            "type": "TGglyc"
+        },
+        "217": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                1035,
+                1036
+            ],
+            "type": "TGglyc"
+        },
+        "218": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1038
+            ],
+            "type": "TGglyc"
+        },
+        "219": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1041
+            ],
+            "type": "TGglyc"
+        },
+        "220": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1047
+            ],
+            "type": "TGglyc"
+        },
+        "221": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                1049
+            ],
+            "type": "TGglyc"
+        },
+        "222": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1055
+            ],
+            "type": "TGglyc"
+        },
+        "223": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                1056
+            ],
+            "type": "TGglyc"
+        },
+        "224": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1057
+            ],
+            "type": "TGglyc"
+        },
+        "225": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1058
+            ],
+            "type": "TGglyc"
+        },
+        "226": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1059
+            ],
+            "type": "TGglyc"
+        },
+        "227": {
+            "lifetime": 1,
+            "size": 74,
+            "frames": [
+                1061
+            ],
+            "type": "TGglyc"
+        },
+        "228": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1062
+            ],
+            "type": "TGglyc"
+        },
+        "229": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                1068
+            ],
+            "type": "TGglyc"
+        },
+        "230": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1073
+            ],
+            "type": "TGglyc"
+        },
+        "231": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1078
+            ],
+            "type": "TGglyc"
+        },
+        "232": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                1083
+            ],
+            "type": "TGglyc"
+        },
+        "233": {
+            "lifetime": 1,
+            "size": 77,
+            "frames": [
+                1085
+            ],
+            "type": "TGglyc"
+        },
+        "234": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1085
+            ],
+            "type": "TGglyc"
+        },
+        "235": {
+            "lifetime": 2,
+            "size": 77,
+            "frames": [
+                1087,
+                1088
+            ],
+            "type": "TGglyc"
+        },
+        "236": {
+            "lifetime": 1,
+            "size": 85,
+            "frames": [
+                1089
+            ],
+            "type": "TGglyc"
+        },
+        "237": {
+            "lifetime": 3,
+            "size": 59,
+            "frames": [
+                1093,
+                1094,
+                1095
+            ],
+            "type": "TGglyc"
+        },
+        "238": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                1093,
+                1094
+            ],
+            "type": "TGglyc"
+        },
+        "239": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1095
+            ],
+            "type": "TGglyc"
+        },
+        "240": {
+            "lifetime": 1,
+            "size": 67,
+            "frames": [
+                1096
+            ],
+            "type": "TGglyc"
+        },
+        "241": {
+            "lifetime": 5,
+            "size": 70,
+            "frames": [
+                1097,
+                1098,
+                1099,
+                1100,
+                1101
+            ],
+            "type": "TGglyc"
+        },
+        "242": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                1104
+            ],
+            "type": "TGglyc"
+        },
+        "243": {
+            "lifetime": 2,
+            "size": 68,
+            "frames": [
+                1104,
+                1105
+            ],
+            "type": "TGglyc"
+        },
+        "244": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1107
+            ],
+            "type": "TGglyc"
+        },
+        "245": {
+            "lifetime": 2,
+            "size": 63,
+            "frames": [
+                1112,
+                1113
+            ],
+            "type": "TGglyc"
+        },
+        "246": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1115
+            ],
+            "type": "TGglyc"
+        },
+        "247": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1117
+            ],
+            "type": "TGglyc"
+        },
+        "248": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1120
+            ],
+            "type": "TGglyc"
+        },
+        "249": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1122
+            ],
+            "type": "TGglyc"
+        },
+        "250": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1123
+            ],
+            "type": "TGglyc"
+        },
+        "251": {
+            "lifetime": 1,
+            "size": 72,
+            "frames": [
+                1123
+            ],
+            "type": "TGglyc"
+        },
+        "252": {
+            "lifetime": 1,
+            "size": 73,
+            "frames": [
+                1124
+            ],
+            "type": "TGglyc"
+        },
+        "253": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1124
+            ],
+            "type": "TGglyc"
+        },
+        "254": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1124
+            ],
+            "type": "TGglyc"
+        },
+        "255": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                1126
+            ],
+            "type": "TGglyc"
+        },
+        "256": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1126
+            ],
+            "type": "TGglyc"
+        },
+        "257": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                1126
+            ],
+            "type": "TGglyc"
+        },
+        "258": {
+            "lifetime": 1,
+            "size": 70,
+            "frames": [
+                1127
+            ],
+            "type": "TGglyc"
+        },
+        "259": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1127
+            ],
+            "type": "TGglyc"
+        },
+        "260": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1129
+            ],
+            "type": "TGglyc"
+        },
+        "261": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1130
+            ],
+            "type": "TGglyc"
+        },
+        "262": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1131
+            ],
+            "type": "TGglyc"
+        },
+        "263": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1132
+            ],
+            "type": "TGglyc"
+        },
+        "264": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                1132
+            ],
+            "type": "TGglyc"
+        },
+        "265": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                1134,
+                1135
+            ],
+            "type": "TGglyc"
+        },
+        "266": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                1134,
+                1135
+            ],
+            "type": "TGglyc"
+        },
+        "267": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                1137
+            ],
+            "type": "TGglyc"
+        },
+        "268": {
+            "lifetime": 2,
+            "size": 72,
+            "frames": [
+                1140,
+                1141
+            ],
+            "type": "TGglyc"
+        },
+        "269": {
+            "lifetime": 1,
+            "size": 72,
+            "frames": [
+                1145
+            ],
+            "type": "TGglyc"
+        },
+        "270": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1146
+            ],
+            "type": "TGglyc"
+        },
+        "271": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1154
+            ],
+            "type": "TGglyc"
+        },
+        "272": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1156
+            ],
+            "type": "TGglyc"
+        },
+        "273": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1159
+            ],
+            "type": "TGglyc"
+        },
+        "274": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1164
+            ],
+            "type": "TGglyc"
+        },
+        "275": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                1175,
+                1176
+            ],
+            "type": "TGglyc"
+        },
+        "276": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1178
+            ],
+            "type": "TGglyc"
+        },
+        "277": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1180
+            ],
+            "type": "TGglyc"
+        },
+        "278": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1192
+            ],
+            "type": "TGglyc"
+        },
+        "279": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1192
+            ],
+            "type": "TGglyc"
+        },
+        "280": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                1193
+            ],
+            "type": "TGglyc"
+        },
+        "281": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                1195
+            ],
+            "type": "TGglyc"
+        },
+        "282": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1196
+            ],
+            "type": "TGglyc"
+        },
+        "283": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1196
+            ],
+            "type": "TGglyc"
+        },
+        "284": {
+            "lifetime": 2,
+            "size": 67,
+            "frames": [
+                1197,
+                1198
+            ],
+            "type": "TGglyc"
+        },
+        "285": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                1197,
+                1198
+            ],
+            "type": "TGglyc"
+        },
+        "286": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                1201
+            ],
+            "type": "TGglyc"
+        },
+        "287": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1207
+            ],
+            "type": "TGglyc"
+        },
+        "288": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1211
+            ],
+            "type": "TGglyc"
+        },
+        "289": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1212
+            ],
+            "type": "TGglyc"
+        },
+        "290": {
+            "lifetime": 3,
+            "size": 62,
+            "frames": [
+                1214,
+                1215,
+                1216
+            ],
+            "type": "TGglyc"
+        },
+        "291": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1230
+            ],
+            "type": "TGglyc"
+        },
+        "292": {
+            "lifetime": 5,
+            "size": 51,
+            "frames": [
+                1233,
+                1234,
+                1235,
+                1236,
+                1237
+            ],
+            "type": "TGglyc"
+        },
+        "293": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                1257
+            ],
+            "type": "TGglyc"
+        },
+        "294": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1270
+            ],
+            "type": "TGglyc"
+        },
+        "295": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1274,
+                1275
+            ],
+            "type": "TGglyc"
+        },
+        "296": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1278
+            ],
+            "type": "TGglyc"
+        },
+        "297": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1278
+            ],
+            "type": "TGglyc"
+        },
+        "298": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1282
+            ],
+            "type": "TGglyc"
+        },
+        "299": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                1288,
+                1289
+            ],
+            "type": "TGglyc"
+        },
+        "300": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1289
+            ],
+            "type": "TGglyc"
+        },
+        "301": {
+            "lifetime": 4,
+            "size": 70,
+            "frames": [
+                1291,
+                1292,
+                1293,
+                1294
+            ],
+            "type": "TGglyc"
+        },
+        "302": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1295
+            ],
+            "type": "TGglyc"
+        },
+        "303": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1297
+            ],
+            "type": "TGglyc"
+        },
+        "304": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1301
+            ],
+            "type": "TGglyc"
+        },
+        "305": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                1302,
+                1303
+            ],
+            "type": "TGglyc"
+        },
+        "306": {
+            "lifetime": 5,
+            "size": 62,
+            "frames": [
+                1308,
+                1309,
+                1310,
+                1311,
+                1312
+            ],
+            "type": "TGglyc"
+        },
+        "307": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1315
+            ],
+            "type": "TGglyc"
+        },
+        "308": {
+            "lifetime": 3,
+            "size": 76,
+            "frames": [
+                1316,
+                1317,
+                1318
+            ],
+            "type": "TGglyc"
+        },
+        "309": {
+            "lifetime": 7,
+            "size": 82,
+            "frames": [
+                1319,
+                1320,
+                1321,
+                1322,
+                1323,
+                1324,
+                1325
+            ],
+            "type": "TGglyc"
+        },
+        "310": {
+            "lifetime": 3,
+            "size": 64,
+            "frames": [
+                1323,
+                1324,
+                1325
+            ],
+            "type": "TGglyc"
+        },
+        "311": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1326
+            ],
+            "type": "TGglyc"
+        },
+        "312": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                1326
+            ],
+            "type": "TGglyc"
+        },
+        "313": {
+            "lifetime": 4,
+            "size": 50,
+            "frames": [
+                1327,
+                1328,
+                1329,
+                1330
+            ],
+            "type": "TGglyc"
+        },
+        "314": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                1330
+            ],
+            "type": "TGglyc"
+        },
+        "315": {
+            "lifetime": 4,
+            "size": 50,
+            "frames": [
+                1332,
+                1333,
+                1334,
+                1335
+            ],
+            "type": "TGglyc"
+        },
+        "316": {
+            "lifetime": 4,
+            "size": 57,
+            "frames": [
+                1332,
+                1333,
+                1334,
+                1335
+            ],
+            "type": "TGglyc"
+        },
+        "317": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                1336,
+                1337
+            ],
+            "type": "TGglyc"
+        },
+        "318": {
+            "lifetime": 9,
+            "size": 90,
+            "frames": [
+                1338,
+                1339,
+                1340,
+                1341,
+                1342,
+                1343,
+                1344,
+                1345,
+                1346
+            ],
+            "type": "TGglyc"
+        },
+        "319": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1339,
+                1340
+            ],
+            "type": "TGglyc"
+        },
+        "320": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1339
+            ],
+            "type": "TGglyc"
+        },
+        "321": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                1342,
+                1343
+            ],
+            "type": "TGglyc"
+        },
+        "322": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1347
+            ],
+            "type": "TGglyc"
+        },
+        "323": {
+            "lifetime": 1,
+            "size": 79,
+            "frames": [
+                1348
+            ],
+            "type": "TGglyc"
+        },
+        "324": {
+            "lifetime": 2,
+            "size": 69,
+            "frames": [
+                1349,
+                1350
+            ],
+            "type": "TGglyc"
+        },
+        "325": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1350
+            ],
+            "type": "TGglyc"
+        },
+        "326": {
+            "lifetime": 3,
+            "size": 75,
+            "frames": [
+                1351,
+                1352,
+                1353
+            ],
+            "type": "TGglyc"
+        },
+        "327": {
+            "lifetime": 1,
+            "size": 67,
+            "frames": [
+                1357
+            ],
+            "type": "TGglyc"
+        },
+        "328": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1359
+            ],
+            "type": "TGglyc"
+        },
+        "329": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1367
+            ],
+            "type": "TGglyc"
+        },
+        "330": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1371
+            ],
+            "type": "TGglyc"
+        },
+        "331": {
+            "lifetime": 5,
+            "size": 61,
+            "frames": [
+                1371,
+                1372,
+                1373,
+                1374,
+                1375
+            ],
+            "type": "TGglyc"
+        },
+        "332": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1376
+            ],
+            "type": "TGglyc"
+        },
+        "333": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1380
+            ],
+            "type": "TGglyc"
+        },
+        "334": {
+            "lifetime": 2,
+            "size": 61,
+            "frames": [
+                1387,
+                1388
+            ],
+            "type": "TGglyc"
+        },
+        "335": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1391
+            ],
+            "type": "TGglyc"
+        },
+        "336": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                1395,
+                1396
+            ],
+            "type": "TGglyc"
+        },
+        "337": {
+            "lifetime": 3,
+            "size": 52,
+            "frames": [
+                1399,
+                1400,
+                1401
+            ],
+            "type": "TGglyc"
+        },
+        "338": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1405
+            ],
+            "type": "TGglyc"
+        },
+        "339": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1406
+            ],
+            "type": "TGglyc"
+        },
+        "340": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1407,
+                1408
+            ],
+            "type": "TGglyc"
+        },
+        "341": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1411
+            ],
+            "type": "TGglyc"
+        },
+        "342": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1416
+            ],
+            "type": "TGglyc"
+        },
+        "343": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1422
+            ],
+            "type": "TGglyc"
+        },
+        "344": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1422,
+                1423
+            ],
+            "type": "TGglyc"
+        },
+        "345": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1424
+            ],
+            "type": "TGglyc"
+        },
+        "346": {
+            "lifetime": 2,
+            "size": 60,
+            "frames": [
+                1426,
+                1427
+            ],
+            "type": "TGglyc"
+        },
+        "347": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                1428
+            ],
+            "type": "TGglyc"
+        },
+        "348": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1429
+            ],
+            "type": "TGglyc"
+        },
+        "349": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1440
+            ],
+            "type": "TGglyc"
+        },
+        "350": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1442,
+                1443
+            ],
+            "type": "TGglyc"
+        },
+        "351": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1443
+            ],
+            "type": "TGglyc"
+        },
+        "352": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1445
+            ],
+            "type": "TGglyc"
+        },
+        "353": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1445
+            ],
+            "type": "TGglyc"
+        },
+        "354": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1446
+            ],
+            "type": "TGglyc"
+        },
+        "355": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1453
+            ],
+            "type": "TGglyc"
+        },
+        "356": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1454
+            ],
+            "type": "TGglyc"
+        },
+        "357": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1455
+            ],
+            "type": "TGglyc"
+        },
+        "358": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1455
+            ],
+            "type": "TGglyc"
+        },
+        "359": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1456
+            ],
+            "type": "TGglyc"
+        },
+        "360": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1457
+            ],
+            "type": "TGglyc"
+        },
+        "361": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                1460,
+                1461,
+                1462
+            ],
+            "type": "TGglyc"
+        },
+        "362": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1465
+            ],
+            "type": "TGglyc"
+        },
+        "363": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1467
+            ],
+            "type": "TGglyc"
+        },
+        "364": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1467
+            ],
+            "type": "TGglyc"
+        },
+        "365": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                1475,
+                1476
+            ],
+            "type": "TGglyc"
+        },
+        "366": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1475
+            ],
+            "type": "TGglyc"
+        },
+        "367": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                1478
+            ],
+            "type": "TGglyc"
+        },
+        "368": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                1483
+            ],
+            "type": "TGglyc"
+        },
+        "369": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1490
+            ],
+            "type": "TGglyc"
+        },
+        "370": {
+            "lifetime": 7,
+            "size": 67,
+            "frames": [
+                1495,
+                1496,
+                1497,
+                1498,
+                1499,
+                1500,
+                1501
+            ],
+            "type": "TGglyc"
+        },
+        "371": {
+            "lifetime": 1,
+            "size": 89,
+            "frames": [
+                1502
+            ],
+            "type": "TGglyc"
+        },
+        "372": {
+            "lifetime": 7,
+            "size": 85,
+            "frames": [
+                1503,
+                1504,
+                1505,
+                1506,
+                1507,
+                1508,
+                1509
+            ],
+            "type": "TGglyc"
+        },
+        "373": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1507,
+                1508
+            ],
+            "type": "TGglyc"
+        },
+        "374": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1510
+            ],
+            "type": "TGglyc"
+        },
+        "375": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1511
+            ],
+            "type": "TGglyc"
+        },
+        "376": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                1514
+            ],
+            "type": "TGglyc"
+        },
+        "377": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1515
+            ],
+            "type": "TGglyc"
+        },
+        "378": {
+            "lifetime": 2,
+            "size": 64,
+            "frames": [
+                1517,
+                1518
+            ],
+            "type": "TGglyc"
+        },
+        "379": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1517
+            ],
+            "type": "TGglyc"
+        },
+        "380": {
+            "lifetime": 5,
+            "size": 50,
+            "frames": [
+                1521,
+                1522,
+                1523,
+                1524,
+                1525
+            ],
+            "type": "TGglyc"
+        },
+        "381": {
+            "lifetime": 1,
+            "size": 72,
+            "frames": [
+                1527
+            ],
+            "type": "TGglyc"
+        },
+        "382": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1529
+            ],
+            "type": "TGglyc"
+        },
+        "383": {
+            "lifetime": 2,
+            "size": 68,
+            "frames": [
+                1531,
+                1532
+            ],
+            "type": "TGglyc"
+        },
+        "384": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1536
+            ],
+            "type": "TGglyc"
+        },
+        "385": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1539
+            ],
+            "type": "TGglyc"
+        },
+        "386": {
+            "lifetime": 2,
+            "size": 60,
+            "frames": [
+                1540,
+                1541
+            ],
+            "type": "TGglyc"
+        },
+        "387": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1543
+            ],
+            "type": "TGglyc"
+        },
+        "388": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                1544,
+                1545
+            ],
+            "type": "TGglyc"
+        },
+        "389": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1546
+            ],
+            "type": "TGglyc"
+        },
+        "390": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1546
+            ],
+            "type": "TGglyc"
+        },
+        "391": {
+            "lifetime": 4,
+            "size": 51,
+            "frames": [
+                1548,
+                1549,
+                1550,
+                1551
+            ],
+            "type": "TGglyc"
+        },
+        "392": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1549
+            ],
+            "type": "TGglyc"
+        },
+        "393": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                1550,
+                1551
+            ],
+            "type": "TGglyc"
+        },
+        "394": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1550
+            ],
+            "type": "TGglyc"
+        },
+        "395": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1559
+            ],
+            "type": "TGglyc"
+        },
+        "396": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1565
+            ],
+            "type": "TGglyc"
+        },
+        "397": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1566
+            ],
+            "type": "TGglyc"
+        },
+        "398": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                1578,
+                1579
+            ],
+            "type": "TGglyc"
+        },
+        "399": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                1581
+            ],
+            "type": "TGglyc"
+        },
+        "400": {
+            "lifetime": 2,
+            "size": 63,
+            "frames": [
+                1584,
+                1585
+            ],
+            "type": "TGglyc"
+        },
+        "401": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1587
+            ],
+            "type": "TGglyc"
+        },
+        "402": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1588
+            ],
+            "type": "TGglyc"
+        },
+        "403": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1592
+            ],
+            "type": "TGglyc"
+        },
+        "404": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1595
+            ],
+            "type": "TGglyc"
+        },
+        "405": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1596
+            ],
+            "type": "TGglyc"
+        },
+        "406": {
+            "lifetime": 3,
+            "size": 86,
+            "frames": [
+                1596,
+                1597,
+                1598
+            ],
+            "type": "TGglyc"
+        },
+        "407": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                1599
+            ],
+            "type": "TGglyc"
+        },
+        "408": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1601
+            ],
+            "type": "TGglyc"
+        },
+        "409": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1604
+            ],
+            "type": "TGglyc"
+        },
+        "410": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1604
+            ],
+            "type": "TGglyc"
+        },
+        "411": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1605
+            ],
+            "type": "TGglyc"
+        },
+        "412": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1607
+            ],
+            "type": "TGglyc"
+        },
+        "413": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1610
+            ],
+            "type": "TGglyc"
+        },
+        "414": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                1612
+            ],
+            "type": "TGglyc"
+        },
+        "415": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1612
+            ],
+            "type": "TGglyc"
+        },
+        "416": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1613
+            ],
+            "type": "TGglyc"
+        },
+        "417": {
+            "lifetime": 4,
+            "size": 60,
+            "frames": [
+                1615,
+                1616,
+                1617,
+                1618
+            ],
+            "type": "TGglyc"
+        },
+        "418": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1615
+            ],
+            "type": "TGglyc"
+        },
+        "419": {
+            "lifetime": 5,
+            "size": 54,
+            "frames": [
+                1615,
+                1616,
+                1617,
+                1618,
+                1619
+            ],
+            "type": "TGglyc"
+        },
+        "420": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1621
+            ],
+            "type": "TGglyc"
+        },
+        "421": {
+            "lifetime": 6,
+            "size": 85,
+            "frames": [
+                1626,
+                1627,
+                1628,
+                1629,
+                1630,
+                1631
+            ],
+            "type": "TGglyc"
+        },
+        "422": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1628
+            ],
+            "type": "TGglyc"
+        },
+        "423": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1628
+            ],
+            "type": "TGglyc"
+        },
+        "424": {
+            "lifetime": 3,
+            "size": 53,
+            "frames": [
+                1635,
+                1636,
+                1637
+            ],
+            "type": "TGglyc"
+        },
+        "425": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1635
+            ],
+            "type": "TGglyc"
+        },
+        "426": {
+            "lifetime": 2,
+            "size": 64,
+            "frames": [
+                1639,
+                1640
+            ],
+            "type": "TGglyc"
+        },
+        "427": {
+            "lifetime": 2,
+            "size": 78,
+            "frames": [
+                1641,
+                1642
+            ],
+            "type": "TGglyc"
+        },
+        "428": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1643
+            ],
+            "type": "TGglyc"
+        },
+        "429": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                1644,
+                1645
+            ],
+            "type": "TGglyc"
+        },
+        "430": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1645
+            ],
+            "type": "TGglyc"
+        },
+        "431": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1647
+            ],
+            "type": "TGglyc"
+        },
+        "432": {
+            "lifetime": 1,
+            "size": 70,
+            "frames": [
+                1652
+            ],
+            "type": "TGglyc"
+        },
+        "433": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1655
+            ],
+            "type": "TGglyc"
+        },
+        "434": {
+            "lifetime": 1,
+            "size": 82,
+            "frames": [
+                1656
+            ],
+            "type": "TGglyc"
+        },
+        "435": {
+            "lifetime": 15,
+            "size": 64,
+            "frames": [
+                1657,
+                1658,
+                1659,
+                1660,
+                1661,
+                1662,
+                1663,
+                1664,
+                1665,
+                1666,
+                1667,
+                1668,
+                1669,
+                1670,
+                1671
+            ],
+            "type": "TGglyc"
+        },
+        "436": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1665
+            ],
+            "type": "TGglyc"
+        },
+        "437": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1666
+            ],
+            "type": "TGglyc"
+        },
+        "438": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                1672
+            ],
+            "type": "TGglyc"
+        },
+        "439": {
+            "lifetime": 4,
+            "size": 88,
+            "frames": [
+                1673,
+                1674,
+                1675,
+                1676
+            ],
+            "type": "TGglyc"
+        },
+        "440": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1675
+            ],
+            "type": "TGglyc"
+        },
+        "441": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1677
+            ],
+            "type": "TGglyc"
+        },
+        "442": {
+            "lifetime": 27,
+            "size": 93,
+            "frames": [
+                1678,
+                1679,
+                1680,
+                1681,
+                1682,
+                1683,
+                1684,
+                1685,
+                1686,
+                1687,
+                1688,
+                1689,
+                1690,
+                1691,
+                1692,
+                1693,
+                1694,
+                1695,
+                1696,
+                1697,
+                1698,
+                1699,
+                1700,
+                1701,
+                1702,
+                1703,
+                1704
+            ],
+            "type": "TGglyc"
+        },
+        "443": {
+            "lifetime": 3,
+            "size": 54,
+            "frames": [
+                1681,
+                1682,
+                1683
+            ],
+            "type": "TGglyc"
+        },
+        "444": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                1685,
+                1686
+            ],
+            "type": "TGglyc"
+        },
+        "445": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                1692
+            ],
+            "type": "TGglyc"
+        },
+        "446": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1694
+            ],
+            "type": "TGglyc"
+        },
+        "447": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1695
+            ],
+            "type": "TGglyc"
+        },
+        "448": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1696
+            ],
+            "type": "TGglyc"
+        },
+        "449": {
+            "lifetime": 5,
+            "size": 53,
+            "frames": [
+                1706,
+                1707,
+                1708,
+                1709,
+                1710
+            ],
+            "type": "TGglyc"
+        },
+        "450": {
+            "lifetime": 16,
+            "size": 63,
+            "frames": [
+                1712,
+                1713,
+                1714,
+                1715,
+                1716,
+                1717,
+                1718,
+                1719,
+                1720,
+                1721,
+                1722,
+                1723,
+                1724,
+                1725,
+                1726,
+                1727
+            ],
+            "type": "TGglyc"
+        },
+        "451": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1715
+            ],
+            "type": "TGglyc"
+        },
+        "452": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1717
+            ],
+            "type": "TGglyc"
+        },
+        "453": {
+            "lifetime": 3,
+            "size": 59,
+            "frames": [
+                1723,
+                1724,
+                1725
+            ],
+            "type": "TGglyc"
+        },
+        "454": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1727
+            ],
+            "type": "TGglyc"
+        },
+        "455": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1729
+            ],
+            "type": "TGglyc"
+        },
+        "456": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                1732
+            ],
+            "type": "TGglyc"
+        },
+        "457": {
+            "lifetime": 1,
+            "size": 101,
+            "frames": [
+                1733
+            ],
+            "type": "TGglyc"
+        },
+        "458": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                1733
+            ],
+            "type": "TGglyc"
+        },
+        "459": {
+            "lifetime": 2,
+            "size": 89,
+            "frames": [
+                1734,
+                1735
+            ],
+            "type": "TGglyc"
+        },
+        "460": {
+            "lifetime": 3,
+            "size": 57,
+            "frames": [
+                1736,
+                1737,
+                1738
+            ],
+            "type": "TGglyc"
+        },
+        "461": {
+            "lifetime": 7,
+            "size": 73,
+            "frames": [
+                1737,
+                1738,
+                1739,
+                1740,
+                1741,
+                1742,
+                1743
+            ],
+            "type": "TGglyc"
+        },
+        "462": {
+            "lifetime": 17,
+            "size": 58,
+            "frames": [
+                1748,
+                1749,
+                1750,
+                1751,
+                1752,
+                1753,
+                1754,
+                1755,
+                1756,
+                1757,
+                1758,
+                1759,
+                1760,
+                1761,
+                1762,
+                1763,
+                1764
+            ],
+            "type": "TGglyc"
+        },
+        "463": {
+            "lifetime": 3,
+            "size": 65,
+            "frames": [
+                1750,
+                1751,
+                1752
+            ],
+            "type": "TGglyc"
+        },
+        "464": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1756,
+                1757
+            ],
+            "type": "TGglyc"
+        },
+        "465": {
+            "lifetime": 2,
+            "size": 70,
+            "frames": [
+                1765,
+                1766
+            ],
+            "type": "TGglyc"
+        },
+        "466": {
+            "lifetime": 6,
+            "size": 56,
+            "frames": [
+                1767,
+                1768,
+                1769,
+                1770,
+                1771,
+                1772
+            ],
+            "type": "TGglyc"
+        },
+        "467": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                1778,
+                1779,
+                1780
+            ],
+            "type": "TGglyc"
+        },
+        "468": {
+            "lifetime": 2,
+            "size": 76,
+            "frames": [
+                1782,
+                1783
+            ],
+            "type": "TGglyc"
+        },
+        "469": {
+            "lifetime": 3,
+            "size": 54,
+            "frames": [
+                1785,
+                1786,
+                1787
+            ],
+            "type": "TGglyc"
+        },
+        "470": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                1791,
+                1792
+            ],
+            "type": "TGglyc"
+        },
+        "471": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                1797
+            ],
+            "type": "TGglyc"
+        },
+        "472": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1802
+            ],
+            "type": "TGglyc"
+        },
+        "473": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                1804
+            ],
+            "type": "TGglyc"
+        },
+        "474": {
+            "lifetime": 5,
+            "size": 59,
+            "frames": [
+                1805,
+                1806,
+                1807,
+                1808,
+                1809
+            ],
+            "type": "TGglyc"
+        },
+        "475": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1814
+            ],
+            "type": "TGglyc"
+        },
+        "476": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1834
+            ],
+            "type": "TGglyc"
+        },
+        "477": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1854,
+                1855
+            ],
+            "type": "TGglyc"
+        },
+        "478": {
+            "lifetime": 1,
+            "size": 66,
+            "frames": [
+                1856
+            ],
+            "type": "TGglyc"
+        },
+        "479": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1859
+            ],
+            "type": "TGglyc"
+        },
+        "480": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1860
+            ],
+            "type": "TGglyc"
+        },
+        "481": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                1867
+            ],
+            "type": "TGglyc"
+        },
+        "482": {
+            "lifetime": 5,
+            "size": 67,
+            "frames": [
+                1872,
+                1873,
+                1874,
+                1875,
+                1876
+            ],
+            "type": "TGglyc"
+        },
+        "483": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1877
+            ],
+            "type": "TGglyc"
+        },
+        "484": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1878
+            ],
+            "type": "TGglyc"
+        },
+        "485": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                1884
+            ],
+            "type": "TGglyc"
+        },
+        "486": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1888
+            ],
+            "type": "TGglyc"
+        },
+        "487": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1889
+            ],
+            "type": "TGglyc"
+        },
+        "488": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1892
+            ],
+            "type": "TGglyc"
+        },
+        "489": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                1893,
+                1894
+            ],
+            "type": "TGglyc"
+        },
+        "490": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1896
+            ],
+            "type": "TGglyc"
+        },
+        "491": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                1902,
+                1903,
+                1904
+            ],
+            "type": "TGglyc"
+        },
+        "492": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1902,
+                1903
+            ],
+            "type": "TGglyc"
+        },
+        "493": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1907
+            ],
+            "type": "TGglyc"
+        },
+        "494": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                1908,
+                1909
+            ],
+            "type": "TGglyc"
+        },
+        "495": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1910
+            ],
+            "type": "TGglyc"
+        },
+        "496": {
+            "lifetime": 3,
+            "size": 78,
+            "frames": [
+                1911,
+                1912,
+                1913
+            ],
+            "type": "TGglyc"
+        },
+        "497": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1912
+            ],
+            "type": "TGglyc"
+        },
+        "498": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1914,
+                1915
+            ],
+            "type": "TGglyc"
+        },
+        "499": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1917
+            ],
+            "type": "TGglyc"
+        },
+        "500": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1920
+            ],
+            "type": "TGglyc"
+        },
+        "501": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1922
+            ],
+            "type": "TGglyc"
+        },
+        "502": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                1923,
+                1924
+            ],
+            "type": "TGglyc"
+        },
+        "503": {
+            "lifetime": 2,
+            "size": 80,
+            "frames": [
+                1925,
+                1926
+            ],
+            "type": "TGglyc"
+        },
+        "504": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                1925,
+                1926
+            ],
+            "type": "TGglyc"
+        },
+        "505": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                1927
+            ],
+            "type": "TGglyc"
+        },
+        "506": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1927
+            ],
+            "type": "TGglyc"
+        },
+        "507": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                1929,
+                1930
+            ],
+            "type": "TGglyc"
+        },
+        "508": {
+            "lifetime": 1,
+            "size": 71,
+            "frames": [
+                1930
+            ],
+            "type": "TGglyc"
+        },
+        "509": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1931
+            ],
+            "type": "TGglyc"
+        },
+        "510": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1932
+            ],
+            "type": "TGglyc"
+        },
+        "511": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1934
+            ],
+            "type": "TGglyc"
+        },
+        "512": {
+            "lifetime": 3,
+            "size": 63,
+            "frames": [
+                1936,
+                1937,
+                1938
+            ],
+            "type": "TGglyc"
+        },
+        "513": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                1942,
+                1943
+            ],
+            "type": "TGglyc"
+        },
+        "514": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1949
+            ],
+            "type": "TGglyc"
+        },
+        "515": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1952
+            ],
+            "type": "TGglyc"
+        },
+        "516": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                1958
+            ],
+            "type": "TGglyc"
+        },
+        "517": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                1960
+            ],
+            "type": "TGglyc"
+        },
+        "518": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                1968,
+                1969
+            ],
+            "type": "TGglyc"
+        },
+        "519": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                1968,
+                1969
+            ],
+            "type": "TGglyc"
+        },
+        "520": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                1975
+            ],
+            "type": "TGglyc"
+        },
+        "521": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                1975
+            ],
+            "type": "TGglyc"
+        },
+        "522": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1976
+            ],
+            "type": "TGglyc"
+        },
+        "523": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                1982
+            ],
+            "type": "TGglyc"
+        },
+        "524": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                1988
+            ],
+            "type": "TGglyc"
+        },
+        "525": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                1991
+            ],
+            "type": "TGglyc"
+        },
+        "526": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                1995,
+                1996
+            ],
+            "type": "TGglyc"
+        },
+        "527": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                1998
+            ],
+            "type": "TGglyc"
+        },
+        "528": {
+            "lifetime": 3,
+            "size": 54,
+            "frames": [
+                2000,
+                2001,
+                2002
+            ],
+            "type": "TGglyc"
+        },
+        "529": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2004
+            ],
+            "type": "TGglyc"
+        },
+        "530": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2005
+            ],
+            "type": "TGglyc"
+        },
+        "531": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2006
+            ],
+            "type": "TGglyc"
+        },
+        "532": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2035
+            ],
+            "type": "TGglyc"
+        },
+        "533": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                2048
+            ],
+            "type": "TGglyc"
+        },
+        "534": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2055
+            ],
+            "type": "TGglyc"
+        },
+        "535": {
+            "lifetime": 3,
+            "size": 53,
+            "frames": [
+                2057,
+                2058,
+                2059
+            ],
+            "type": "TGglyc"
+        },
+        "536": {
+            "lifetime": 3,
+            "size": 53,
+            "frames": [
+                2061,
+                2062,
+                2063
+            ],
+            "type": "TGglyc"
+        },
+        "537": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                2065,
+                2066
+            ],
+            "type": "TGglyc"
+        },
+        "538": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2068
+            ],
+            "type": "TGglyc"
+        },
+        "539": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                2068,
+                2069
+            ],
+            "type": "TGglyc"
+        },
+        "540": {
+            "lifetime": 3,
+            "size": 65,
+            "frames": [
+                2070,
+                2071,
+                2072
+            ],
+            "type": "TGglyc"
+        },
+        "541": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                2071
+            ],
+            "type": "TGglyc"
+        },
+        "542": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2073
+            ],
+            "type": "TGglyc"
+        },
+        "543": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2074
+            ],
+            "type": "TGglyc"
+        },
+        "544": {
+            "lifetime": 2,
+            "size": 75,
+            "frames": [
+                2075,
+                2076
+            ],
+            "type": "TGglyc"
+        },
+        "545": {
+            "lifetime": 1,
+            "size": 81,
+            "frames": [
+                2077
+            ],
+            "type": "TGglyc"
+        },
+        "546": {
+            "lifetime": 1,
+            "size": 78,
+            "frames": [
+                2078
+            ],
+            "type": "TGglyc"
+        },
+        "547": {
+            "lifetime": 1,
+            "size": 83,
+            "frames": [
+                2079
+            ],
+            "type": "TGglyc"
+        },
+        "548": {
+            "lifetime": 9,
+            "size": 83,
+            "frames": [
+                2080,
+                2081,
+                2082,
+                2083,
+                2084,
+                2085,
+                2086,
+                2087,
+                2088
+            ],
+            "type": "TGglyc"
+        },
+        "549": {
+            "lifetime": 1,
+            "size": 87,
+            "frames": [
+                2084
+            ],
+            "type": "TGglyc"
+        },
+        "550": {
+            "lifetime": 4,
+            "size": 54,
+            "frames": [
+                2090,
+                2091,
+                2092,
+                2093
+            ],
+            "type": "TGglyc"
+        },
+        "551": {
+            "lifetime": 1,
+            "size": 73,
+            "frames": [
+                2090
+            ],
+            "type": "TGglyc"
+        },
+        "552": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                2092
+            ],
+            "type": "TGglyc"
+        },
+        "553": {
+            "lifetime": 1,
+            "size": 76,
+            "frames": [
+                2094
+            ],
+            "type": "TGglyc"
+        },
+        "554": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2094
+            ],
+            "type": "TGglyc"
+        },
+        "555": {
+            "lifetime": 1,
+            "size": 80,
+            "frames": [
+                2095
+            ],
+            "type": "TGglyc"
+        },
+        "556": {
+            "lifetime": 1,
+            "size": 72,
+            "frames": [
+                2097
+            ],
+            "type": "TGglyc"
+        },
+        "557": {
+            "lifetime": 6,
+            "size": 77,
+            "frames": [
+                2098,
+                2099,
+                2100,
+                2101,
+                2102,
+                2103
+            ],
+            "type": "TGglyc"
+        },
+        "558": {
+            "lifetime": 2,
+            "size": 77,
+            "frames": [
+                2104,
+                2105
+            ],
+            "type": "TGglyc"
+        },
+        "559": {
+            "lifetime": 5,
+            "size": 84,
+            "frames": [
+                2106,
+                2107,
+                2108,
+                2109,
+                2110
+            ],
+            "type": "TGglyc"
+        },
+        "560": {
+            "lifetime": 2,
+            "size": 72,
+            "frames": [
+                2111,
+                2112
+            ],
+            "type": "TGglyc"
+        },
+        "561": {
+            "lifetime": 1,
+            "size": 68,
+            "frames": [
+                2112
+            ],
+            "type": "TGglyc"
+        },
+        "562": {
+            "lifetime": 1,
+            "size": 68,
+            "frames": [
+                2113
+            ],
+            "type": "TGglyc"
+        },
+        "563": {
+            "lifetime": 1,
+            "size": 74,
+            "frames": [
+                2114
+            ],
+            "type": "TGglyc"
+        },
+        "564": {
+            "lifetime": 1,
+            "size": 86,
+            "frames": [
+                2120
+            ],
+            "type": "TGglyc"
+        },
+        "565": {
+            "lifetime": 5,
+            "size": 53,
+            "frames": [
+                2122,
+                2123,
+                2124,
+                2125,
+                2126
+            ],
+            "type": "TGglyc"
+        },
+        "566": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                2123,
+                2124,
+                2125
+            ],
+            "type": "TGglyc"
+        },
+        "567": {
+            "lifetime": 2,
+            "size": 68,
+            "frames": [
+                2127,
+                2128
+            ],
+            "type": "TGglyc"
+        },
+        "568": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2127
+            ],
+            "type": "TGglyc"
+        },
+        "569": {
+            "lifetime": 1,
+            "size": 70,
+            "frames": [
+                2128
+            ],
+            "type": "TGglyc"
+        },
+        "570": {
+            "lifetime": 1,
+            "size": 77,
+            "frames": [
+                2130
+            ],
+            "type": "TGglyc"
+        },
+        "571": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                2131,
+                2132
+            ],
+            "type": "TGglyc"
+        },
+        "572": {
+            "lifetime": 1,
+            "size": 87,
+            "frames": [
+                2131
+            ],
+            "type": "TGglyc"
+        },
+        "573": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                2132
+            ],
+            "type": "TGglyc"
+        },
+        "574": {
+            "lifetime": 4,
+            "size": 72,
+            "frames": [
+                2133,
+                2134,
+                2135,
+                2136
+            ],
+            "type": "TGglyc"
+        },
+        "575": {
+            "lifetime": 8,
+            "size": 63,
+            "frames": [
+                2134,
+                2135,
+                2136,
+                2137,
+                2138,
+                2139,
+                2140,
+                2141
+            ],
+            "type": "TGglyc"
+        },
+        "576": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2134
+            ],
+            "type": "TGglyc"
+        },
+        "577": {
+            "lifetime": 6,
+            "size": 51,
+            "frames": [
+                2137,
+                2138,
+                2139,
+                2140,
+                2141,
+                2142
+            ],
+            "type": "TGglyc"
+        },
+        "578": {
+            "lifetime": 3,
+            "size": 59,
+            "frames": [
+                2138,
+                2139,
+                2140
+            ],
+            "type": "TGglyc"
+        },
+        "579": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2143
+            ],
+            "type": "TGglyc"
+        },
+        "580": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2143
+            ],
+            "type": "TGglyc"
+        },
+        "581": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2144
+            ],
+            "type": "TGglyc"
+        },
+        "582": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                2144
+            ],
+            "type": "TGglyc"
+        },
+        "583": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2145
+            ],
+            "type": "TGglyc"
+        },
+        "584": {
+            "lifetime": 4,
+            "size": 53,
+            "frames": [
+                2147,
+                2148,
+                2149,
+                2150
+            ],
+            "type": "TGglyc"
+        },
+        "585": {
+            "lifetime": 4,
+            "size": 56,
+            "frames": [
+                2149,
+                2150,
+                2151,
+                2152
+            ],
+            "type": "TGglyc"
+        },
+        "586": {
+            "lifetime": 3,
+            "size": 55,
+            "frames": [
+                2153,
+                2154,
+                2155
+            ],
+            "type": "TGglyc"
+        },
+        "587": {
+            "lifetime": 2,
+            "size": 60,
+            "frames": [
+                2159,
+                2160
+            ],
+            "type": "TGglyc"
+        },
+        "588": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2161
+            ],
+            "type": "TGglyc"
+        },
+        "589": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2161
+            ],
+            "type": "TGglyc"
+        },
+        "590": {
+            "lifetime": 1,
+            "size": 76,
+            "frames": [
+                2163
+            ],
+            "type": "TGglyc"
+        },
+        "591": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2164
+            ],
+            "type": "TGglyc"
+        },
+        "592": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2166
+            ],
+            "type": "TGglyc"
+        },
+        "593": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                2166,
+                2167,
+                2168
+            ],
+            "type": "TGglyc"
+        },
+        "594": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2168
+            ],
+            "type": "TGglyc"
+        },
+        "595": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                2168,
+                2169
+            ],
+            "type": "TGglyc"
+        },
+        "596": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                2171,
+                2172
+            ],
+            "type": "TGglyc"
+        },
+        "597": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2172
+            ],
+            "type": "TGglyc"
+        },
+        "598": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                2173,
+                2174
+            ],
+            "type": "TGglyc"
+        },
+        "599": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                2175
+            ],
+            "type": "TGglyc"
+        },
+        "600": {
+            "lifetime": 3,
+            "size": 52,
+            "frames": [
+                2177,
+                2178,
+                2179
+            ],
+            "type": "TGglyc"
+        },
+        "601": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2177
+            ],
+            "type": "TGglyc"
+        },
+        "602": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2191
+            ],
+            "type": "TGglyc"
+        },
+        "603": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                2196
+            ],
+            "type": "TGglyc"
+        },
+        "604": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2197
+            ],
+            "type": "TGglyc"
+        },
+        "605": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2198
+            ],
+            "type": "TGglyc"
+        },
+        "606": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2199
+            ],
+            "type": "TGglyc"
+        },
+        "607": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2201
+            ],
+            "type": "TGglyc"
+        },
+        "608": {
+            "lifetime": 2,
+            "size": 62,
+            "frames": [
+                2207,
+                2208
+            ],
+            "type": "TGglyc"
+        },
+        "609": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2228
+            ],
+            "type": "TGglyc"
+        },
+        "610": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2230
+            ],
+            "type": "TGglyc"
+        },
+        "611": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2231
+            ],
+            "type": "TGglyc"
+        },
+        "612": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2236
+            ],
+            "type": "TGglyc"
+        },
+        "613": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                2255
+            ],
+            "type": "TGglyc"
+        },
+        "614": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                2257
+            ],
+            "type": "TGglyc"
+        },
+        "615": {
+            "lifetime": 9,
+            "size": 72,
+            "frames": [
+                2258,
+                2259,
+                2260,
+                2261,
+                2262,
+                2263,
+                2264,
+                2265,
+                2266
+            ],
+            "type": "TGglyc"
+        },
+        "616": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                2272,
+                2273
+            ],
+            "type": "TGglyc"
+        },
+        "617": {
+            "lifetime": 3,
+            "size": 51,
+            "frames": [
+                2275,
+                2276,
+                2277
+            ],
+            "type": "TGglyc"
+        },
+        "618": {
+            "lifetime": 7,
+            "size": 79,
+            "frames": [
+                2279,
+                2280,
+                2281,
+                2282,
+                2283,
+                2284,
+                2285
+            ],
+            "type": "TGglyc"
+        },
+        "619": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                2335
+            ],
+            "type": "TGglyc"
+        },
+        "620": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2336
+            ],
+            "type": "TGglyc"
+        },
+        "621": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                2342
+            ],
+            "type": "TGglyc"
+        },
+        "622": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2348
+            ],
+            "type": "TGglyc"
+        },
+        "623": {
+            "lifetime": 3,
+            "size": 56,
+            "frames": [
+                2349,
+                2350,
+                2351
+            ],
+            "type": "TGglyc"
+        },
+        "624": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2353
+            ],
+            "type": "TGglyc"
+        },
+        "625": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2353
+            ],
+            "type": "TGglyc"
+        },
+        "626": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                2355
+            ],
+            "type": "TGglyc"
+        },
+        "627": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2360
+            ],
+            "type": "TGglyc"
+        },
+        "628": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2363
+            ],
+            "type": "TGglyc"
+        },
+        "629": {
+            "lifetime": 2,
+            "size": 65,
+            "frames": [
+                2365,
+                2366
+            ],
+            "type": "TGglyc"
+        },
+        "630": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2374
+            ],
+            "type": "TGglyc"
+        },
+        "631": {
+            "lifetime": 1,
+            "size": 65,
+            "frames": [
+                2389
+            ],
+            "type": "TGglyc"
+        },
+        "632": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2477
+            ],
+            "type": "TGglyc"
+        },
+        "633": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2480
+            ],
+            "type": "TGglyc"
+        },
+        "634": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2489
+            ],
+            "type": "TGglyc"
+        },
+        "635": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2493
+            ],
+            "type": "TGglyc"
+        },
+        "636": {
+            "lifetime": 4,
+            "size": 51,
+            "frames": [
+                2513,
+                2514,
+                2515,
+                2516
+            ],
+            "type": "TGglyc"
+        },
+        "637": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2534
+            ],
+            "type": "TGglyc"
+        },
+        "638": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                2543,
+                2544
+            ],
+            "type": "TGglyc"
+        },
+        "639": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2548
+            ],
+            "type": "TGglyc"
+        },
+        "640": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                2550
+            ],
+            "type": "TGglyc"
+        },
+        "641": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2556
+            ],
+            "type": "TGglyc"
+        },
+        "642": {
+            "lifetime": 2,
+            "size": 60,
+            "frames": [
+                2559,
+                2560
+            ],
+            "type": "TGglyc"
+        },
+        "643": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                2566,
+                2567,
+                2568
+            ],
+            "type": "TGglyc"
+        },
+        "644": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2570
+            ],
+            "type": "TGglyc"
+        },
+        "645": {
+            "lifetime": 6,
+            "size": 52,
+            "frames": [
+                2572,
+                2573,
+                2574,
+                2575,
+                2576,
+                2577
+            ],
+            "type": "TGglyc"
+        },
+        "646": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                2580,
+                2581
+            ],
+            "type": "TGglyc"
+        },
+        "647": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2581
+            ],
+            "type": "TGglyc"
+        },
+        "648": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2596
+            ],
+            "type": "TGglyc"
+        },
+        "649": {
+            "lifetime": 2,
+            "size": 65,
+            "frames": [
+                2600,
+                2601
+            ],
+            "type": "TGglyc"
+        },
+        "650": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2603
+            ],
+            "type": "TGglyc"
+        },
+        "651": {
+            "lifetime": 2,
+            "size": 66,
+            "frames": [
+                2613,
+                2614
+            ],
+            "type": "TGglyc"
+        },
+        "652": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2616
+            ],
+            "type": "TGglyc"
+        },
+        "653": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                2619
+            ],
+            "type": "TGglyc"
+        },
+        "654": {
+            "lifetime": 2,
+            "size": 61,
+            "frames": [
+                2619,
+                2620
+            ],
+            "type": "TGglyc"
+        },
+        "655": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2621
+            ],
+            "type": "TGglyc"
+        },
+        "656": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2622
+            ],
+            "type": "TGglyc"
+        },
+        "657": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2646
+            ],
+            "type": "TGglyc"
+        },
+        "658": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                2653,
+                2654
+            ],
+            "type": "TGglyc"
+        },
+        "659": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2656
+            ],
+            "type": "TGglyc"
+        },
+        "660": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                2658,
+                2659
+            ],
+            "type": "TGglyc"
+        },
+        "661": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2671
+            ],
+            "type": "TGglyc"
+        },
+        "662": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2672
+            ],
+            "type": "TGglyc"
+        },
+        "663": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2673
+            ],
+            "type": "TGglyc"
+        },
+        "664": {
+            "lifetime": 4,
+            "size": 57,
+            "frames": [
+                2674,
+                2675,
+                2676,
+                2677
+            ],
+            "type": "TGglyc"
+        },
+        "665": {
+            "lifetime": 3,
+            "size": 77,
+            "frames": [
+                2679,
+                2680,
+                2681
+            ],
+            "type": "TGglyc"
+        },
+        "666": {
+            "lifetime": 2,
+            "size": 71,
+            "frames": [
+                2684,
+                2685
+            ],
+            "type": "TGglyc"
+        },
+        "667": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2685
+            ],
+            "type": "TGglyc"
+        },
+        "668": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2687
+            ],
+            "type": "TGglyc"
+        },
+        "669": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2689
+            ],
+            "type": "TGglyc"
+        },
+        "670": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2691
+            ],
+            "type": "TGglyc"
+        },
+        "671": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2693
+            ],
+            "type": "TGglyc"
+        },
+        "672": {
+            "lifetime": 3,
+            "size": 52,
+            "frames": [
+                2696,
+                2697,
+                2698
+            ],
+            "type": "TGglyc"
+        },
+        "673": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2705
+            ],
+            "type": "TGglyc"
+        },
+        "674": {
+            "lifetime": 3,
+            "size": 59,
+            "frames": [
+                2707,
+                2708,
+                2709
+            ],
+            "type": "TGglyc"
+        },
+        "675": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2710
+            ],
+            "type": "TGglyc"
+        },
+        "676": {
+            "lifetime": 1,
+            "size": 64,
+            "frames": [
+                2712
+            ],
+            "type": "TGglyc"
+        },
+        "677": {
+            "lifetime": 2,
+            "size": 53,
+            "frames": [
+                2714,
+                2715
+            ],
+            "type": "TGglyc"
+        },
+        "678": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2715
+            ],
+            "type": "TGglyc"
+        },
+        "679": {
+            "lifetime": 3,
+            "size": 64,
+            "frames": [
+                2717,
+                2718,
+                2719
+            ],
+            "type": "TGglyc"
+        },
+        "680": {
+            "lifetime": 4,
+            "size": 70,
+            "frames": [
+                2718,
+                2719,
+                2720,
+                2721
+            ],
+            "type": "TGglyc"
+        },
+        "681": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                2724
+            ],
+            "type": "TGglyc"
+        },
+        "682": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2727
+            ],
+            "type": "TGglyc"
+        },
+        "683": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                2735,
+                2736
+            ],
+            "type": "TGglyc"
+        },
+        "684": {
+            "lifetime": 2,
+            "size": 77,
+            "frames": [
+                2738,
+                2739
+            ],
+            "type": "TGglyc"
+        },
+        "685": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2744
+            ],
+            "type": "TGglyc"
+        },
+        "686": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2746
+            ],
+            "type": "TGglyc"
+        },
+        "687": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2752
+            ],
+            "type": "TGglyc"
+        },
+        "688": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2791
+            ],
+            "type": "TGglyc"
+        },
+        "689": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                2813,
+                2814
+            ],
+            "type": "TGglyc"
+        },
+        "690": {
+            "lifetime": 8,
+            "size": 67,
+            "frames": [
+                2816,
+                2817,
+                2818,
+                2819,
+                2820,
+                2821,
+                2822,
+                2823
+            ],
+            "type": "TGglyc"
+        },
+        "691": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2833
+            ],
+            "type": "TGglyc"
+        },
+        "692": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2836
+            ],
+            "type": "TGglyc"
+        },
+        "693": {
+            "lifetime": 7,
+            "size": 51,
+            "frames": [
+                2839,
+                2840,
+                2841,
+                2842,
+                2843,
+                2844,
+                2845
+            ],
+            "type": "TGglyc"
+        },
+        "694": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2839
+            ],
+            "type": "TGglyc"
+        },
+        "695": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2841
+            ],
+            "type": "TGglyc"
+        },
+        "696": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2847
+            ],
+            "type": "TGglyc"
+        },
+        "697": {
+            "lifetime": 6,
+            "size": 53,
+            "frames": [
+                2852,
+                2853,
+                2854,
+                2855,
+                2856,
+                2857
+            ],
+            "type": "TGglyc"
+        },
+        "698": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                2860,
+                2861
+            ],
+            "type": "TGglyc"
+        },
+        "699": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2865
+            ],
+            "type": "TGglyc"
+        },
+        "700": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                2896
+            ],
+            "type": "TGglyc"
+        },
+        "701": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2906
+            ],
+            "type": "TGglyc"
+        },
+        "702": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                2930
+            ],
+            "type": "TGglyc"
+        },
+        "703": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2938
+            ],
+            "type": "TGglyc"
+        },
+        "704": {
+            "lifetime": 2,
+            "size": 67,
+            "frames": [
+                2942,
+                2943
+            ],
+            "type": "TGglyc"
+        },
+        "705": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                2947,
+                2948
+            ],
+            "type": "TGglyc"
+        },
+        "706": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                2959
+            ],
+            "type": "TGglyc"
+        },
+        "707": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                2960
+            ],
+            "type": "TGglyc"
+        },
+        "708": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                2982
+            ],
+            "type": "TGglyc"
+        },
+        "709": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                2985,
+                2986,
+                2987
+            ],
+            "type": "TGglyc"
+        },
+        "710": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                2991
+            ],
+            "type": "TGglyc"
+        },
+        "711": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2993
+            ],
+            "type": "TGglyc"
+        },
+        "712": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                2993
+            ],
+            "type": "TGglyc"
+        },
+        "713": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                2995
+            ],
+            "type": "TGglyc"
+        },
+        "714": {
+            "lifetime": 1,
+            "size": 89,
+            "frames": [
+                2996
+            ],
+            "type": "TGglyc"
+        },
+        "715": {
+            "lifetime": 1,
+            "size": 61,
+            "frames": [
+                2998
+            ],
+            "type": "TGglyc"
+        },
+        "716": {
+            "lifetime": 1,
+            "size": 69,
+            "frames": [
+                3000
+            ],
+            "type": "TGglyc"
+        },
+        "717": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3000
+            ],
+            "type": "TGglyc"
+        },
+        "718": {
+            "lifetime": 1,
+            "size": 86,
+            "frames": [
+                3002
+            ],
+            "type": "TGglyc"
+        },
+        "719": {
+            "lifetime": 2,
+            "size": 82,
+            "frames": [
+                3003,
+                3004
+            ],
+            "type": "TGglyc"
+        },
+        "720": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                3003,
+                3004
+            ],
+            "type": "TGglyc"
+        },
+        "721": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                3005,
+                3006,
+                3007
+            ],
+            "type": "TGglyc"
+        },
+        "722": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3006
+            ],
+            "type": "TGglyc"
+        },
+        "723": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3007
+            ],
+            "type": "TGglyc"
+        },
+        "724": {
+            "lifetime": 3,
+            "size": 98,
+            "frames": [
+                3009,
+                3010,
+                3011
+            ],
+            "type": "TGglyc"
+        },
+        "725": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                3012
+            ],
+            "type": "TGglyc"
+        },
+        "726": {
+            "lifetime": 1,
+            "size": 81,
+            "frames": [
+                3014
+            ],
+            "type": "TGglyc"
+        },
+        "727": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3015
+            ],
+            "type": "TGglyc"
+        },
+        "728": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3016
+            ],
+            "type": "TGglyc"
+        },
+        "729": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                3017
+            ],
+            "type": "TGglyc"
+        },
+        "730": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3017
+            ],
+            "type": "TGglyc"
+        },
+        "731": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3017
+            ],
+            "type": "TGglyc"
+        },
+        "732": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3018
+            ],
+            "type": "TGglyc"
+        },
+        "733": {
+            "lifetime": 6,
+            "size": 53,
+            "frames": [
+                3019,
+                3020,
+                3021,
+                3022,
+                3023,
+                3024
+            ],
+            "type": "TGglyc"
+        },
+        "734": {
+            "lifetime": 3,
+            "size": 70,
+            "frames": [
+                3019,
+                3020,
+                3021
+            ],
+            "type": "TGglyc"
+        },
+        "735": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3027,
+                3028
+            ],
+            "type": "TGglyc"
+        },
+        "736": {
+            "lifetime": 3,
+            "size": 69,
+            "frames": [
+                3032,
+                3033,
+                3034
+            ],
+            "type": "TGglyc"
+        },
+        "737": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3032
+            ],
+            "type": "TGglyc"
+        },
+        "738": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3035
+            ],
+            "type": "TGglyc"
+        },
+        "739": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                3039,
+                3040,
+                3041
+            ],
+            "type": "TGglyc"
+        },
+        "740": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3041
+            ],
+            "type": "TGglyc"
+        },
+        "741": {
+            "lifetime": 5,
+            "size": 80,
+            "frames": [
+                3043,
+                3044,
+                3045,
+                3046,
+                3047
+            ],
+            "type": "TGglyc"
+        },
+        "742": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3043
+            ],
+            "type": "TGglyc"
+        },
+        "743": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3045
+            ],
+            "type": "TGglyc"
+        },
+        "744": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3045
+            ],
+            "type": "TGglyc"
+        },
+        "745": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3050
+            ],
+            "type": "TGglyc"
+        },
+        "746": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3050
+            ],
+            "type": "TGglyc"
+        },
+        "747": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3057,
+                3058
+            ],
+            "type": "TGglyc"
+        },
+        "748": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3059
+            ],
+            "type": "TGglyc"
+        },
+        "749": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3067
+            ],
+            "type": "TGglyc"
+        },
+        "750": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3072
+            ],
+            "type": "TGglyc"
+        },
+        "751": {
+            "lifetime": 1,
+            "size": 64,
+            "frames": [
+                3074
+            ],
+            "type": "TGglyc"
+        },
+        "752": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3080,
+                3081
+            ],
+            "type": "TGglyc"
+        },
+        "753": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3081,
+                3082
+            ],
+            "type": "TGglyc"
+        },
+        "754": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                3097
+            ],
+            "type": "TGglyc"
+        },
+        "755": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3116
+            ],
+            "type": "TGglyc"
+        },
+        "756": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3131
+            ],
+            "type": "TGglyc"
+        },
+        "757": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3135
+            ],
+            "type": "TGglyc"
+        },
+        "758": {
+            "lifetime": 5,
+            "size": 51,
+            "frames": [
+                3137,
+                3138,
+                3139,
+                3140,
+                3141
+            ],
+            "type": "TGglyc"
+        },
+        "759": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                3138,
+                3139
+            ],
+            "type": "TGglyc"
+        },
+        "760": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3143
+            ],
+            "type": "TGglyc"
+        },
+        "761": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                3144,
+                3145
+            ],
+            "type": "TGglyc"
+        },
+        "762": {
+            "lifetime": 2,
+            "size": 58,
+            "frames": [
+                3147,
+                3148
+            ],
+            "type": "TGglyc"
+        },
+        "763": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                3150
+            ],
+            "type": "TGglyc"
+        },
+        "764": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                3152,
+                3153,
+                3154
+            ],
+            "type": "TGglyc"
+        },
+        "765": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3159,
+                3160
+            ],
+            "type": "TGglyc"
+        },
+        "766": {
+            "lifetime": 2,
+            "size": 59,
+            "frames": [
+                3162,
+                3163
+            ],
+            "type": "TGglyc"
+        },
+        "767": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3165,
+                3166
+            ],
+            "type": "TGglyc"
+        },
+        "768": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3165
+            ],
+            "type": "TGglyc"
+        },
+        "769": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3166
+            ],
+            "type": "TGglyc"
+        },
+        "770": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3169
+            ],
+            "type": "TGglyc"
+        },
+        "771": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3170
+            ],
+            "type": "TGglyc"
+        },
+        "772": {
+            "lifetime": 2,
+            "size": 68,
+            "frames": [
+                3171,
+                3172
+            ],
+            "type": "TGglyc"
+        },
+        "773": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                3173
+            ],
+            "type": "TGglyc"
+        },
+        "774": {
+            "lifetime": 4,
+            "size": 51,
+            "frames": [
+                3173,
+                3174,
+                3175,
+                3176
+            ],
+            "type": "TGglyc"
+        },
+        "775": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3175
+            ],
+            "type": "TGglyc"
+        },
+        "776": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3176
+            ],
+            "type": "TGglyc"
+        },
+        "777": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3177
+            ],
+            "type": "TGglyc"
+        },
+        "778": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3183
+            ],
+            "type": "TGglyc"
+        },
+        "779": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3190
+            ],
+            "type": "TGglyc"
+        },
+        "780": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3208
+            ],
+            "type": "TGglyc"
+        },
+        "781": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3210
+            ],
+            "type": "TGglyc"
+        },
+        "782": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3218
+            ],
+            "type": "TGglyc"
+        },
+        "783": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3220
+            ],
+            "type": "TGglyc"
+        },
+        "784": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3231
+            ],
+            "type": "TGglyc"
+        },
+        "785": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3258
+            ],
+            "type": "TGglyc"
+        },
+        "786": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3259
+            ],
+            "type": "TGglyc"
+        },
+        "787": {
+            "lifetime": 3,
+            "size": 58,
+            "frames": [
+                3265,
+                3266,
+                3267
+            ],
+            "type": "TGglyc"
+        },
+        "788": {
+            "lifetime": 1,
+            "size": 78,
+            "frames": [
+                3271
+            ],
+            "type": "TGglyc"
+        },
+        "789": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3272
+            ],
+            "type": "TGglyc"
+        },
+        "790": {
+            "lifetime": 1,
+            "size": 76,
+            "frames": [
+                3275
+            ],
+            "type": "TGglyc"
+        },
+        "791": {
+            "lifetime": 6,
+            "size": 76,
+            "frames": [
+                3280,
+                3281,
+                3282,
+                3283,
+                3284,
+                3285
+            ],
+            "type": "TGglyc"
+        },
+        "792": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3292
+            ],
+            "type": "TGglyc"
+        },
+        "793": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3298
+            ],
+            "type": "TGglyc"
+        },
+        "794": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3306
+            ],
+            "type": "TGglyc"
+        },
+        "795": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                3327,
+                3328
+            ],
+            "type": "TGglyc"
+        },
+        "796": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                3361
+            ],
+            "type": "TGglyc"
+        },
+        "797": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                3364
+            ],
+            "type": "TGglyc"
+        },
+        "798": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3368
+            ],
+            "type": "TGglyc"
+        },
+        "799": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3373,
+                3374
+            ],
+            "type": "TGglyc"
+        },
+        "800": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3374
+            ],
+            "type": "TGglyc"
+        },
+        "801": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                3448
+            ],
+            "type": "TGglyc"
+        },
+        "802": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3453
+            ],
+            "type": "TGglyc"
+        },
+        "803": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3458
+            ],
+            "type": "TGglyc"
+        },
+        "804": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3462
+            ],
+            "type": "TGglyc"
+        },
+        "805": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3465
+            ],
+            "type": "TGglyc"
+        },
+        "806": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3502
+            ],
+            "type": "TGglyc"
+        },
+        "807": {
+            "lifetime": 7,
+            "size": 53,
+            "frames": [
+                3511,
+                3512,
+                3513,
+                3514,
+                3515,
+                3516,
+                3517
+            ],
+            "type": "TGglyc"
+        },
+        "808": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3519
+            ],
+            "type": "TGglyc"
+        },
+        "809": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3521
+            ],
+            "type": "TGglyc"
+        },
+        "810": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3522
+            ],
+            "type": "TGglyc"
+        },
+        "811": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3523
+            ],
+            "type": "TGglyc"
+        },
+        "812": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                3524,
+                3525
+            ],
+            "type": "TGglyc"
+        },
+        "813": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3526
+            ],
+            "type": "TGglyc"
+        },
+        "814": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                3528,
+                3529
+            ],
+            "type": "TGglyc"
+        },
+        "815": {
+            "lifetime": 1,
+            "size": 62,
+            "frames": [
+                3531
+            ],
+            "type": "TGglyc"
+        },
+        "816": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3533
+            ],
+            "type": "TGglyc"
+        },
+        "817": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                3533
+            ],
+            "type": "TGglyc"
+        },
+        "818": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3535
+            ],
+            "type": "TGglyc"
+        },
+        "819": {
+            "lifetime": 2,
+            "size": 50,
+            "frames": [
+                3537,
+                3538
+            ],
+            "type": "TGglyc"
+        },
+        "820": {
+            "lifetime": 4,
+            "size": 61,
+            "frames": [
+                3543,
+                3544,
+                3545,
+                3546
+            ],
+            "type": "TGglyc"
+        },
+        "821": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3544
+            ],
+            "type": "TGglyc"
+        },
+        "822": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3550
+            ],
+            "type": "TGglyc"
+        },
+        "823": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3552
+            ],
+            "type": "TGglyc"
+        },
+        "824": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                3555,
+                3556,
+                3557
+            ],
+            "type": "TGglyc"
+        },
+        "825": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3559,
+                3560
+            ],
+            "type": "TGglyc"
+        },
+        "826": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3561
+            ],
+            "type": "TGglyc"
+        },
+        "827": {
+            "lifetime": 2,
+            "size": 64,
+            "frames": [
+                3571,
+                3572
+            ],
+            "type": "TGglyc"
+        },
+        "828": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3578
+            ],
+            "type": "TGglyc"
+        },
+        "829": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3602,
+                3603
+            ],
+            "type": "TGglyc"
+        },
+        "830": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3604
+            ],
+            "type": "TGglyc"
+        },
+        "831": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                3607,
+                3608
+            ],
+            "type": "TGglyc"
+        },
+        "832": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3610
+            ],
+            "type": "TGglyc"
+        },
+        "833": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3618,
+                3619
+            ],
+            "type": "TGglyc"
+        },
+        "834": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3627
+            ],
+            "type": "TGglyc"
+        },
+        "835": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3630
+            ],
+            "type": "TGglyc"
+        },
+        "836": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3632
+            ],
+            "type": "TGglyc"
+        },
+        "837": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3633
+            ],
+            "type": "TGglyc"
+        },
+        "838": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                3635,
+                3636
+            ],
+            "type": "TGglyc"
+        },
+        "839": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                3637
+            ],
+            "type": "TGglyc"
+        },
+        "840": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3638
+            ],
+            "type": "TGglyc"
+        },
+        "841": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                3638,
+                3639,
+                3640
+            ],
+            "type": "TGglyc"
+        },
+        "842": {
+            "lifetime": 1,
+            "size": 60,
+            "frames": [
+                3644
+            ],
+            "type": "TGglyc"
+        },
+        "843": {
+            "lifetime": 4,
+            "size": 61,
+            "frames": [
+                3650,
+                3651,
+                3652,
+                3653
+            ],
+            "type": "TGglyc"
+        },
+        "844": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3652
+            ],
+            "type": "TGglyc"
+        },
+        "845": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3658
+            ],
+            "type": "TGglyc"
+        },
+        "846": {
+            "lifetime": 2,
+            "size": 52,
+            "frames": [
+                3659,
+                3660
+            ],
+            "type": "TGglyc"
+        },
+        "847": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                3667
+            ],
+            "type": "TGglyc"
+        },
+        "848": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3667
+            ],
+            "type": "TGglyc"
+        },
+        "849": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3675
+            ],
+            "type": "TGglyc"
+        },
+        "850": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3676
+            ],
+            "type": "TGglyc"
+        },
+        "851": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                3678,
+                3679
+            ],
+            "type": "TGglyc"
+        },
+        "852": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3684
+            ],
+            "type": "TGglyc"
+        },
+        "853": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3689
+            ],
+            "type": "TGglyc"
+        },
+        "854": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                3692,
+                3693
+            ],
+            "type": "TGglyc"
+        },
+        "855": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                3694,
+                3695
+            ],
+            "type": "TGglyc"
+        },
+        "856": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3696
+            ],
+            "type": "TGglyc"
+        },
+        "857": {
+            "lifetime": 1,
+            "size": 58,
+            "frames": [
+                3697
+            ],
+            "type": "TGglyc"
+        },
+        "858": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3698
+            ],
+            "type": "TGglyc"
+        },
+        "859": {
+            "lifetime": 6,
+            "size": 62,
+            "frames": [
+                3705,
+                3706,
+                3707,
+                3708,
+                3709,
+                3710
+            ],
+            "type": "TGglyc"
+        },
+        "860": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3737
+            ],
+            "type": "TGglyc"
+        },
+        "861": {
+            "lifetime": 4,
+            "size": 61,
+            "frames": [
+                3739,
+                3740,
+                3741,
+                3742
+            ],
+            "type": "TGglyc"
+        },
+        "862": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3743
+            ],
+            "type": "TGglyc"
+        },
+        "863": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3744
+            ],
+            "type": "TGglyc"
+        },
+        "864": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3755
+            ],
+            "type": "TGglyc"
+        },
+        "865": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3782
+            ],
+            "type": "TGglyc"
+        },
+        "866": {
+            "lifetime": 2,
+            "size": 51,
+            "frames": [
+                3782,
+                3783
+            ],
+            "type": "TGglyc"
+        },
+        "867": {
+            "lifetime": 1,
+            "size": 59,
+            "frames": [
+                3796
+            ],
+            "type": "TGglyc"
+        },
+        "868": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3848
+            ],
+            "type": "TGglyc"
+        },
+        "869": {
+            "lifetime": 4,
+            "size": 52,
+            "frames": [
+                3851,
+                3852,
+                3853,
+                3854
+            ],
+            "type": "TGglyc"
+        },
+        "870": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3854
+            ],
+            "type": "TGglyc"
+        },
+        "871": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3856
+            ],
+            "type": "TGglyc"
+        },
+        "872": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3857
+            ],
+            "type": "TGglyc"
+        },
+        "873": {
+            "lifetime": 2,
+            "size": 61,
+            "frames": [
+                3858,
+                3859
+            ],
+            "type": "TGglyc"
+        },
+        "874": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3858
+            ],
+            "type": "TGglyc"
+        },
+        "875": {
+            "lifetime": 2,
+            "size": 56,
+            "frames": [
+                3860,
+                3861
+            ],
+            "type": "TGglyc"
+        },
+        "876": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3861
+            ],
+            "type": "TGglyc"
+        },
+        "877": {
+            "lifetime": 2,
+            "size": 59,
+            "frames": [
+                3862,
+                3863
+            ],
+            "type": "TGglyc"
+        },
+        "878": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3862
+            ],
+            "type": "TGglyc"
+        },
+        "879": {
+            "lifetime": 2,
+            "size": 64,
+            "frames": [
+                3863,
+                3864
+            ],
+            "type": "TGglyc"
+        },
+        "880": {
+            "lifetime": 1,
+            "size": 56,
+            "frames": [
+                3865
+            ],
+            "type": "TGglyc"
+        },
+        "881": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3866
+            ],
+            "type": "TGglyc"
+        },
+        "882": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3869
+            ],
+            "type": "TGglyc"
+        },
+        "883": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3871
+            ],
+            "type": "TGglyc"
+        },
+        "884": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3878
+            ],
+            "type": "TGglyc"
+        },
+        "885": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3879
+            ],
+            "type": "TGglyc"
+        },
+        "886": {
+            "lifetime": 2,
+            "size": 81,
+            "frames": [
+                3881,
+                3882
+            ],
+            "type": "TGglyc"
+        },
+        "887": {
+            "lifetime": 1,
+            "size": 55,
+            "frames": [
+                3882
+            ],
+            "type": "TGglyc"
+        },
+        "888": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3885,
+                3886
+            ],
+            "type": "TGglyc"
+        },
+        "889": {
+            "lifetime": 3,
+            "size": 50,
+            "frames": [
+                3888,
+                3889,
+                3890
+            ],
+            "type": "TGglyc"
+        },
+        "890": {
+            "lifetime": 1,
+            "size": 54,
+            "frames": [
+                3892
+            ],
+            "type": "TGglyc"
+        },
+        "891": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3902
+            ],
+            "type": "TGglyc"
+        },
+        "892": {
+            "lifetime": 1,
+            "size": 57,
+            "frames": [
+                3902
+            ],
+            "type": "TGglyc"
+        },
+        "893": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3903
+            ],
+            "type": "TGglyc"
+        },
+        "894": {
+            "lifetime": 1,
+            "size": 52,
+            "frames": [
+                3913
+            ],
+            "type": "TGglyc"
+        },
+        "895": {
+            "lifetime": 1,
+            "size": 63,
+            "frames": [
+                3937
+            ],
+            "type": "TGglyc"
+        },
+        "896": {
+            "lifetime": 2,
+            "size": 54,
+            "frames": [
+                3938,
+                3939
+            ],
+            "type": "TGglyc"
+        },
+        "897": {
+            "lifetime": 3,
+            "size": 52,
+            "frames": [
+                3939,
+                3940,
+                3941
+            ],
+            "type": "TGglyc"
+        },
+        "898": {
+            "lifetime": 2,
+            "size": 55,
+            "frames": [
+                3943,
+                3944
+            ],
+            "type": "TGglyc"
+        },
+        "899": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3943
+            ],
+            "type": "TGglyc"
+        },
+        "900": {
+            "lifetime": 4,
+            "size": 50,
+            "frames": [
+                3946,
+                3947,
+                3948,
+                3949
+            ],
+            "type": "TGglyc"
+        },
+        "901": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3946
+            ],
+            "type": "TGglyc"
+        },
+        "902": {
+            "lifetime": 1,
+            "size": 51,
+            "frames": [
+                3950
+            ],
+            "type": "TGglyc"
+        },
+        "903": {
+            "lifetime": 1,
+            "size": 53,
+            "frames": [
+                3951
+            ],
+            "type": "TGglyc"
+        },
+        "904": {
+            "lifetime": 3,
+            "size": 52,
+            "frames": [
+                3952,
+                3953,
+                3954
+            ],
+            "type": "TGglyc"
+        },
+        "905": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3956
+            ],
+            "type": "TGglyc"
+        },
+        "906": {
+            "lifetime": 2,
+            "size": 57,
+            "frames": [
+                3963,
+                3964
+            ],
+            "type": "TGglyc"
+        },
+        "907": {
+            "lifetime": 1,
+            "size": 50,
+            "frames": [
+                3966
+            ],
+            "type": "TGglyc"
+        },
+        "908": {
+            "lifetime": 4,
+            "size": 56,
+            "frames": [
+                3968,
+                3969,
+                3970,
+                3971
+            ],
+            "type": "TGglyc"
+        },
+        "909": {
+            "lifetime": 7,
+            "size": 64,
+            "frames": [
+                3973,
+                3974,
+                3975,
+                3976,
+                3977,
+                3978,
+                3979
+            ],
+            "type": "TGglyc"
+        }
+    }
+]

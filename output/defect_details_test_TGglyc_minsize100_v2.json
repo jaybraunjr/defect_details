@@ -1,0 +1,45 @@
+[
+    {
+        "0": {
+            "lifetime": 2,
+            "size": 108,
+            "frames": [
+                1324,
+                1325
+            ],
+            "type": "TGglyc"
+        },
+        "1": {
+            "lifetime": 1,
+            "size": 105,
+            "frames": [
+                1497
+            ],
+            "type": "TGglyc"
+        },
+        "2": {
+            "lifetime": 1,
+            "size": 111,
+            "frames": [
+                1696
+            ],
+            "type": "TGglyc"
+        },
+        "3": {
+            "lifetime": 1,
+            "size": 111,
+            "frames": [
+                1698
+            ],
+            "type": "TGglyc"
+        },
+        "4": {
+            "lifetime": 1,
+            "size": 101,
+            "frames": [
+                1733
+            ],
+            "type": "TGglyc"
+        }
+    }
+]
